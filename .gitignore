@@ -1,4 +1,5 @@
-
+# .gitignore
+.env
 # Playwright
 node_modules/
 /test-results/
