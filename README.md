@@ -33,6 +33,7 @@ STEP 2: Install Dependencies
 BASH
 
 npm install
+npx playwright install
 
 STEP 3: Create .env File
 # UI Base URL
