@@ -58,27 +58,27 @@ npx playwright test
 
 Test Case Summary
 
-UI Automation
-•	Navigate to airalo.com
-•	Verify header/footer elements are visible
+UI Automation 
+•	Navigate to airalo.com 
+•	Verify header/footer elements are visible 
 •	Search for a country (e.g., “Japan”)
-•	Validate selected country page content
-•	Select eSIM package and validate detail popup
+•	Validate selected country page content 
+•	Select eSIM package and validate detail popup 
 •	Assert text & visibility of freemium download button
 
-API Automation
-•	Authenticate using OAuth2 client credentials
-•	Verify existence of merhaba-7days-1gb package via /packages
-•	Submit a POST /orders request with quantity = 6
-•	Validate order ID & correct package slugs in response
+API Automation 
+•	Authenticate using OAuth2 client credentials 
+•	Verify existence of merhaba-7days-1gb package via /packages 
+•	Submit a POST /orders request with quantity = 6 
+•	Validate order ID & correct package slugs in response 
 •	GET /esims and assert 6 matching results returned
 
 ⸻
 
-Tech Stack
-•	Playwright
-•	TypeScript
-•	Dotenv
+Tech Stack 
+•	Playwright 
+•	TypeScript 
+•	Dotenv 
 •	Node.js
 
 ⸻
@@ -99,6 +99,6 @@ Approximately 3 hours across both exercises.
 
 Author
 
-Alexander Yudin
-Senior Test Automation Engineer
+Alexander Yudin 
+Senior Test Automation Engineer 
 GitHub: bottomcity
